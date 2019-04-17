@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\model",
+    "\\src\\app\\new-post",
+    "\\src\\app\\post-list",
+    "\\src\\app\\post-list-item",
+    "\\src\\app\\post-view",
+    "\\src\\app\\services"
+  ],
+  "SelectedNode": "\\src\\app\\new-post\\new-post.component.ts",
+  "PreviewInSolutionExplorer": false
+}
